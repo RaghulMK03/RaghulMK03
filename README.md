@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **Spotify Clone**
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **React,Redux,MongoDB,MySQL,MsSQL,Nodejs,JavaScript,Java**
+- 💬 Ask me about **React,Redux,MongoDB,MySQL,Nodejs,JavaScript,Java,python**
 
 
 - 📫 How to reach me **raghulraghul2912@gmail.com**
