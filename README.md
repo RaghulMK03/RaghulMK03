@@ -1,15 +1,19 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm M.K.RAGHUL</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/student-doing-coding-his-computer-setup_939033-14111.jpg?semt=ais_hybrid">
+<h3 align="center">A passionate full software engineer from India</h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/student-doing-coding-his-computer-setup_939033-14111.jpg?semt=ais_hybrid"> -->
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghulmk03&label=Profile%20views&color=0e75b6&style=flat" alt="raghulmk03" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghulmk03" alt="raghulmk03" /></a> </p>
 
 - 🔭 I’m currently working on **Spotify Clone**
+- 🌱 I’m currently learning **MERN**
 
-- 🌱 I’m currently learning **React js,java ,React Native,Mysql**
+- 💬 Ask me about **React,Redux,MongoDB,MySQL,MsSQL,Nodejs,JavaScript,Java**
+
 
 - 📫 How to reach me **raghulraghul2912@gmail.com**
 
